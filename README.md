@@ -109,18 +109,6 @@ Being upfront so others can build on this:
 - Feeding-behaviour analytics (normal / partial / missed classification)
 - Non-blocking state machine, OTA updates, multi-pet support
 
-## 👥 Team
-
-| Name | Reg. No. |
-|---|---|
-| Aaditya Narayana | KTE23EC001 |
-| Adithya K A | KTE23EC011 |
-| Niranjana Santhosh | KTE23EC070 |
-| Arathy Krishnan | NSS23EC030 |
-
-**Project Guide:** Prof. Sobin Francis
-**Coordinators:** Prof. Sujithamol S., Prof. Shinoj Sukumaran
-**HoD:** Dr. David Solomon George
 
 ## 📄 License
 
