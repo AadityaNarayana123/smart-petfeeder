@@ -2,8 +2,6 @@
 
 An IoT-based automatic pet feeder that **calls the pet, confirms it is present with a camera, dispenses a weighed portion, and then checks whether the food was actually eaten** — all controllable from a web/mobile app.
 
-> B.Tech Mini Project (2025-26), Department of Electronics and Communication Engineering,
-> Rajiv Gandhi Institute of Technology (RIT), Kottayam — APJ Abdul Kalam Technological University.
 
 ## ✨ Features
 
